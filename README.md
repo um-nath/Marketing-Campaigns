@@ -111,19 +111,6 @@ The dataset is structured around the four Ps of marketing:
 
 ---
 
-## 🔷 Visualizations
-
-> Add your plots/screenshots here for better impact
-
-Examples:
-
-* 📊 Income vs Spending Graph
-* 📊 Product Category Distribution
-* 📊 Campaign Response Rate
-* 📊 Channel Performance
-
----
-
 
 ## 🔷 Author
 
