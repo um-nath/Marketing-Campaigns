@@ -124,25 +124,6 @@ Examples:
 
 ---
 
-## 🔷 Project Structure
-
-```
-├── data/
-├── notebooks/
-├── src/
-├── images/
-├── README.md
-```
-
----
-
-## 🔷 Future Work
-
-* Apply machine learning models for prediction
-* Perform customer segmentation
-* Optimize campaign strategies using advanced analytics
-
----
 
 ## 🔷 Author
 
