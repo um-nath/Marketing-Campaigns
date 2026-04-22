@@ -69,31 +69,20 @@ The dataset is structured around the four Ps of marketing:
 
 #### 📌 Customer Demographics
 
-*(Insert visualization here)*
+*<img width="790" height="490" alt="Customer Demographics" src="https://github.com/user-attachments/assets/fe84dadb-8a24-470a-9811-995b6c4fad8f" />*
 
-* Age distribution
-* Income vs spending trends
+<img width="580" height="453" alt="Customer Demographics 2" src="https://github.com/user-attachments/assets/396a7724-dedb-4e53-bf99-314c1a4ca03c" />
+
 
 #### 📌 Product Analysis
 
-*(Insert visualization here)*
+<img width="790" height="490" alt="Education background " src="https://github.com/user-attachments/assets/e623b18a-0d48-42bd-9f1e-8691d6f586d1" />
 
-* Spending patterns across categories
-* High-value product identification
-
-#### 📌 Channel Analysis (Place)
-
-*(Insert visualization here)*
-
-* Web vs store purchases
-* Channel preference trends
 
 #### 📌 Campaign Analysis (Promotion)
 
-*(Insert visualization here)*
+<img width="567" height="453" alt="Campaign success rates" src="https://github.com/user-attachments/assets/b67a65a7-46af-4661-8331-e876bcfde298" />
 
-* Campaign success rates
-* Customer response patterns
 
 ---
 
